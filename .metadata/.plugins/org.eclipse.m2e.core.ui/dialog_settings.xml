@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Jose Luis Madera\Documents\Desarrollo Proyecto\Arquitectura_Web2"/>
+			<item value="C:\Users\Jose Luis Madera\Downloads\Crud-Servicios-We-con-Spring-Boot-master"/>
+			<item value="C:\Users\Jose Luis Madera\Documents\Desarrollo Proyecto\Arquitectura_Web"/>
+			<item value="C:\Users\Jose Luis Madera\Downloads\springtest"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
